@@ -1,4 +1,6 @@
-# Application
+# Fungible Token Application
+
+![mars](images/kasei.jpg)
 
 ## Challenge: Martian Token Crowdsale
 
