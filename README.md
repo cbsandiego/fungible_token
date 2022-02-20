@@ -205,20 +205,17 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
 
 ## Evaluation Evidence
 
-* 1 - Screenshot of the successful compilation of the KaseiCoin contract
+1 - Screenshot of the successful compilation of the KaseiCoin contract
 ![1](images/1.jpg)
 
-* 2 - Screenshot of the successful compilation of KaisenCoinCrowdsale contract.
+2 - Screenshot of the successful compilation of KaisenCoinCrowdsale contract.
 ![2](images/2.jpg)
 
-* 3 - Screenshot of the succesful compilation of KaseiCoinCrowdsaleDeployer contract.
+3 - Screenshot of the succesful compilation of KaseiCoinCrowdsaleDeployer contract.
 ![3](images/3.jpg)
 
-* 4 - Initial transaction of deployed contract.
-![4](images/4.jpg)
-
-* 5 - Screenshot on Ganache of wallet address to receive all Kasei
+4 - Screenshot on Ganache of wallet address to receive all Kasei
 ![5](images/5.jpg)
 
-* 6 - Watch all contracts depoloyed
+5 - Watch all contracts depoloyed
 ![deployed](images/deployedcontracts.gif)
