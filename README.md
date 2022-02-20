@@ -219,3 +219,10 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
 
 5 - Watch all contracts depoloyed
 ![deployed](images/deployedcontracts.gif)
+
+6 - Watch KaisenCoinCrowdsale contract in action
+![deployed](images/crowdsale.gif)
+
+7 - Transaction data
+![transaction1](images/transaction1.jpg)
+![transaction2](images/transaction2.jpg)
